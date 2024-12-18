@@ -387,7 +387,7 @@ body {
 }
 
 .hero-subtitle {
-  color: var(--go-green);
+  color: var(--rich-black-fogra-29-1);
   font-size: var(--fs-12);
   font-weight: var(--fw-500);
   max-width: max-content;
@@ -403,7 +403,10 @@ body {
   background-color: var(--go-green);
 }
 
-.hero-title { margin-block: 10px 15px; }
+.hero-title { 
+  margin-block: 10px 15px;
+  color: var(--go-green);
+ }
 
 .hero-text { color: var(--rich-black-fogra-29-1); }
 
